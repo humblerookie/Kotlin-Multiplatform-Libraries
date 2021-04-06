@@ -118,7 +118,7 @@
 ![badge][badge-watchos]
 ![badge][badge-windows]
 
-* [Kissme](https://github.com/netguru/Kissme) - Kissme: Kotlin Secure Storage Multiplatform  
+* [SecurePrefs](https://github.com/gesundheitscloud/Secure-Prefs) - SecurePrefs: Kotlin Secure Storage Multiplatform uses EncryptedSharedPreferences on android and Keychain on ios. This is a fork of [Kissme](https://github.com/netguru/Kissme) with upgraded native binaries.
 ![badge][badge-android]
 ![badge][badge-ios]
 
